@@ -1,0 +1,48 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _DarkRed_
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _0050_LemonChiffon_
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.980392 0.803922
+Ks 0.330000 0.330000 0.330000
+
+newmtl sahne1
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.933333 0.894118
+Ks 0.330000 0.330000 0.330000
+map_Kd Kuchenstück/sahne1.png
+
+newmtl Stone_Brushed_Khaki
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.568627 0.262745
+Ks 0.330000 0.330000 0.330000
+map_Kd Kuchenstück/Stone_Brushed_Khaki.jpg
+
+newmtl glasur
+Ka 0.000000 0.000000 0.000000
+Kd 0.176471 0.094118 0.019608
+Ks 0.330000 0.330000 0.330000
+map_Kd Kuchenstück/glasur.png
+
+newmtl kuchenst_ck_seite
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.133333 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd Kuchenstück/kuchenst_ck_seite.png
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.733333 0.733333
+Ks 0.330000 0.330000 0.330000
+
